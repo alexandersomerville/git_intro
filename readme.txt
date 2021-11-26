@@ -1,5 +1,5 @@
 Hello world this is the beginning of my project
-This is the second step
+This is the second step OF THE PROCESS
 Checking for changes online 
 It is currently raining
 Adding content online 
